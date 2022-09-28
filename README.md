@@ -25,7 +25,7 @@ The strings table must use the following specific JSON format.
 ```
 
 ## UnpacMe Strings Tables
-StrAnnotate can accept any generated strings table as long as it follows the defined JSON format, but UnpacMe config strings data is specifically designed to work with StrAnnotate. 
+StrAnnotate can accept any generated strings table as long as it follows the defined JSON format, but [**UnpacMe**](https://www.unpac.me) config strings data is specifically designed to work with StrAnnotate. 
 
 The plugin will work with both a strings table [QakBot](https://www.unpac.me/results/1509c04f-669d-4d09-ae7a-f2e51e2c58a6#/) and with inline strings [RaccoonStealer](https://www.unpac.me/results/fa816fcb-6d78-46c2-8027-3b09b0bc6bc2#/).
 <p align="center">
