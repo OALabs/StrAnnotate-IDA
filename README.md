@@ -2,7 +2,7 @@
     <img alt="Showcase" src="/assets/annotate.gif">
 </p>
 
-[![GitHub release](https://img.shields.io/github/v/release/oalabs/strannotate-ida.svg)](https://github.com/OALabs/hashdb-ida/releases) [![Chat](https://img.shields.io/badge/chat-Discord-blueviolet)](https://discord.gg/cw4U3WHvpn) [![Support](https://img.shields.io/badge/Support-Patreon-FF424D)](https://www.patreon.com/oalabs)
+[![GitHub release](https://img.shields.io/github/v/release/oalabs/strannotate-ida.svg)](https://github.com/OALabs/strannotate-ida/releases) [![Chat](https://img.shields.io/badge/chat-Discord-blueviolet)](https://discord.gg/cw4U3WHvpn) [![Support](https://img.shields.io/badge/Support-Patreon-FF424D)](https://www.patreon.com/oalabs)
 
 # StrAnnotate IDA Plugin
 A simple way to annotate your IDB with externally decrypted strings tables. A few lines of python to make a tedious task into a click.
