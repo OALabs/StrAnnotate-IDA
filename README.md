@@ -35,4 +35,4 @@ Simply download the strings table from UnpacMe and use StrAnnotate to import the
 
 
 ## ❗Compatibility Issues
-The HashDB plugin has been developed for use with the __IDA 7+__ and __Python 3__ it is not backwards compatible. 
+The StrAnnotate plugin has been developed for use with the __IDA 7+__ and __Python 3__ it is not backwards compatible. 
